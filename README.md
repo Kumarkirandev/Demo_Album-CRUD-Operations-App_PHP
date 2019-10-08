@@ -1,4 +1,4 @@
-**Album Manager**
+# Album Manager
 
 * Simple CRUD operation for Album 
 * Database connection is single responsible file as per SOLID principle
@@ -16,6 +16,6 @@
 * please import DB/db_demo.sql in you newly created database
 * Now change include/config.php file with your local database details
 * Than visit http://localhost/demo/view_album.php you may use vhost like http://album.loc/view_album.php
-* all CURD operaion can be accessed from UI only.
+* all CRUD operaion can be accessed from UI only.
 
 
