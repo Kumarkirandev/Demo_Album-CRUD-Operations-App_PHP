@@ -1,0 +1,145 @@
+body{background-color:#fff;background-image:url(../images/bg.gif);background-repeat:repeat-x;background-position:left top;margin-left:0;margin-top:0;margin-right:0;margin-bottom:0;font:12px "Lucida Grande",Arial,Helvetica,sans-serif}
+input[type="text"],input[type="password"]{min-width:280px;border:1px solid #CCC;border-radius:4px;-webkit-border-radius:4px;padding:3px;font-size:12px}
+select{min-width:285px;padding:3px;border:1px solid #CCC;font-size:12px}
+textarea{min-width:285px;border:1px solid #CCC;border-radius:4px;-webkit-border-radius:4px;padding:3px;font:12px  "Lucida Grande",Arial,Helvetica,sans-serif;}
+option{border-bottom:1px dotted #666}
+input[type="submit"]{-moz-box-shadow:inset 0 1px 0 0 #bbdaf7;-webkit-box-shadow:inset 0 1px 0 0 #bbdaf7;box-shadow:inset 0 1px 0 0 #bbdaf7;background:-webkit-gradient(linear,left top,left bottom,color-stop(0.05,#79bbff),color-stop(1,#378de5));background:-moz-linear-gradient(center top,#79bbff 5%,#378de5 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff',endColorstr='#378de5');background-color:#79bbff;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;border:1px solid #84bbf3;display:inline-block;color:#fff;font-size:15px;font-weight:bold;padding:6px 24px;text-decoration:none;text-shadow:1px 1px 0 #528ecc}
+.paddRt{padding-right:18px}
+.padd10{padding:10px}
+.paddTop10{padding-top:10px}
+.paddRtLt13{padding-right:13px;padding-left:13px}
+.paddRtLt70{padding-top:50px;padding-bottom:50px}
+.paddTopLt13{padding-top:20px;padding-left:20px}
+.paddTopBot20{padding-top:20px;padding-bottom:20px}
+.paddRt14{padding-right:14px}
+.paddLt15{padding-left:15px}
+.paddLt30{padding-left:30px}
+.paddLt10{padding-left:10px}
+.paddLt11{padding-left:11px}
+.paddLt25{padding-left:25px}
+.paddLt6{padding-left:6px}
+.paddTop6{padding-top:6px}
+.paddTop11{padding-top:11px}
+.paddTop5{padding-top:5px}
+.paddTop30{padding-top:30px}
+.paddTop60{padding-top:60px}
+.paddTop70{padding-top:70px}
+.paddBot11{padding-bottom:11px}
+.paddBot5{padding-bottom:5px}
+.padd5{padding:5px}
+.paddRt10{padding-right:10px}
+.padding10{padding:10px}
+.bottonbg{background-image:url(../images/logoutbg.gif);background-repeat:repeat-x;background-position:left top}
+.boxbg{background-image:url(../images/boxbg.gif);background-repeat:repeat-x;background-position:left top}
+.headingbg{background-image:url(../images/headingbg.gif);background-repeat:repeat-x;background-position:left top;height:37px}
+.loginLt{background-image:url(../images/loginlt.gif);background-repeat:no-repeat;background-position:left top}
+.footerbg{background-image:url(../images/footer-bgh.gif);background-repeat:repeat-x;background-position:left top}
+.lik12:link,.lik12:visited{font-size:12px;color:#fff;text-decoration:none}
+.lik12:hover{font-size:12px;color:#fff;text-decoration:underline}
+td{font-size:12px;color:#827788;text-decoration:none}
+a:link,a:visited{font-size:12px;color:#827788;text-decoration:none}
+a:hover{font-size:12px;color:#827788;text-decoration:underline}
+.org{font-size:12px;color:#ef6409;text-decoration:none}
+.inp{font-size:12px;color:#827788;text-decoration:none;padding-left:3px;border:1px solid #bebdbf}
+.text18{font-size:18px;color:#1890c0;font-weight:bold;text-decoration:none}
+.text14{font-size:14px;color:#1890c0;font-weight:bold;text-decoration:none}
+.bodrBot{border-bottom:1px solid #d7d7d7}
+.bodr{border:1px solid #d7d7d7}
+.bodrTop{border-top:1px dotted #666;}
+.paging{font-size:12px;color:#f60;font-weight:normal}
+.submit{background-color:#0085bc;color:#fff;font-size:12px;font-weight:bold;height:30px;text-align:center;border:double;cursor:pointer}
+.OKmessegeBody{background:#f3f4f6 url(../images/correct.gif) no-repeat 5px;background-position:left middle;height:auto;font-size:14px;font-weight:bold;color:#000;border:1px solid #adadb0;margin:10px;padding:8px 5px 5px 35px;vertical-align:middle;text-align:left}
+.ErrormessegeBody{background:#f3f4f6 url(../images/warning.gif) no-repeat 5px;background-position:left middle;height:auto;font-size:14px;font-weight:bold;color:#000;border:1px solid #adadb0;margin:10px;padding:8px 5px 5px 35px;vertical-align:middle;text-align:left}
+.lik12blu:link,.lik12blu:visited{font-size:12px;color:#1890c0;text-decoration:none}
+.lik12blu:hover{font-size:12px;color:#1890c0;text-decoration:underline}
+.error{background:transparent url(../images/aero_up.gif) no-repeat scroll 0 0;font-weight:bold;padding-bottom:15px;padding-right:15px}
+.error_msg{color:#900;margin-left:30px}
+.success{background:transparent url(../images/right.jpg) no-repeat scroll 0 0;padding-bottom:15px;padding-right:15px}
+.success_msg{color:#093;font-weight:bold;margin-left:19px}
+.dragbg{background-image:url(../images/bg_drag.gif);background-repeat:repeat-x;background-position:left top}
+#tnt_pagination{text-align:left;line-height:21px;clear:both;padding:5px 0px;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:normal}
+#tnt_pagination a:link,#tnt_pagination a:visited{padding:2px 7px;border:1px solid #ebebeb;margin:0px 5px;text-decoration:none;background-color:#f5f5f5;color:#0072bc;font-weight:normal}
+#tnt_pagination a:hover{background-color:#def;border:1px solid #bdf;color:#0072bc}
+#tnt_pagination .active_tnt_link{padding:2px 7px;border:1px solid #bdf;margin-left:10px;text-decoration:none;background-color:#def;color:#0072bc;cursor:default}
+#tnt_pagination .disabled_tnt_pagination{padding:7px;padding-top:2px;padding-bottom:2px;border:1px solid #ebebeb;margin-left:10px;text-decoration:none;background-color:#f5f5f5;color:#d7d7d7;cursor:default}
+span.paginate{padding:5px}
+select.paginate{min-width:70px !important; width:70px !important;}
+.clear{clear:both;}
+.paginatorHolder{padding:5px;}
+/**
+ * SDMenu CSS
+ */
+div.sdmenu {
+  width: 195px;
+/*  font-family: Arial, sans-serif;*/
+  font-size: 12px;
+  padding-bottom: 10px;
+  /*background: url(../images/bottom.gif) no-repeat  right bottom;*/
+  color: #fff;
+}
+div.sdmenu div {
+  /*background: url(../images/title.gif) repeat-x;*/
+  background: #3189c5; /* Old browsers */
+  background: -moz-linear-gradient(top, #3189c5 0%, #3085c1 30%, #2b7bb4 70%, #2b7bb4 75%, #2876ad 85%, #2773aa 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3189c5), color-stop(30%,#3085c1), color-stop(70%,#2b7bb4), color-stop(75%,#2b7bb4), color-stop(85%,#2876ad), color-stop(100%,#2773aa)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #3189c5 0%,#3085c1 30%,#2b7bb4 70%,#2b7bb4 75%,#2876ad 85%,#2773aa 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #3189c5 0%,#3085c1 30%,#2b7bb4 70%,#2b7bb4 75%,#2876ad 85%,#2773aa 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #3189c5 0%,#3085c1 30%,#2b7bb4 70%,#2b7bb4 75%,#2876ad 85%,#2773aa 100%); /* IE10+ */
+  background: linear-gradient(to bottom, #3189c5 0%,#3085c1 30%,#2b7bb4 70%,#2b7bb4 75%,#2876ad 85%,#2773aa 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3189c5', endColorstr='#2773aa',GradientType=0 ); /* IE6-9 */
+  overflow: hidden;
+  
+}
+div.sdmenu div:last-child {
+  -webkit-border-bottom-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -moz-border-radius-bottomleft: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+div.sdmenu div:first-child {
+  /*background: url(../images/toptitle.gif) no-repeat;*/
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+div.sdmenu div.collapsed {
+  height: 25px;
+}
+div.sdmenu div span {
+  display: block;
+  padding: 5px 5px 5px 25px;
+  font-weight: bold;
+  color: white;
+  background: url(../images/expanded.png) no-repeat 5px center;
+  cursor: default;
+  border-bottom: 1px solid #ddd;
+}
+div.sdmenu div.collapsed span {
+  background-image: url(../images/collapsed.png);
+}
+div.sdmenu div a {
+  padding: 5px 19px;
+  background: #f3f4f6;
+  display: block;
+  border-top: 0px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  color: #066;
+  font-weight:bold;
+}
+div.sdmenu div a.current {
+  background : #ccc;
+}
+div.sdmenu div a:hover {
+  /*background : #ccc url(../images/linkarrow.gif) no-repeat right center;*/
+  background: #DDD;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight:bold;
+}

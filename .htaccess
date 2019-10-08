@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^$ http://localhost/demo/add_album.php$1 [L,R=301]
